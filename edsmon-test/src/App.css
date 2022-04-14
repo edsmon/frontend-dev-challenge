@@ -1,0 +1,47 @@
+h1{
+    /* Title/h1-title-bold-sans */
+  
+    font-family: 'Source Sans Pro', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 2.500em;
+    line-height: 40px;
+    /* identical to box height, or 100% */
+  
+    letter-spacing: -0.02em;
+  
+    color: #000000;
+  }
+
+h2{
+    /* Title/h2-title-bold-sans */
+
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 2.250em;
+    line-height: 40px;
+    /* or 111% */
+
+    text-align: center;
+    letter-spacing: -0.02em;
+}
+
+p{
+    font-family: 'Merriweather', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    /* or 150% */
+
+    text-align: center;
+    letter-spacing: -0.02em;
+}
+
+body{
+  height: 300vh;
+  width: 80%;
+  padding-left: 10%;
+  padding-right: 10%;
+}
